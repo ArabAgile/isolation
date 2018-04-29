@@ -36,3 +36,20 @@ Second
 --------------------------------------------------------------------------
            Win Rate:      60.0%        64.3%        60.0%        67.1%    
 ```
+
+
+Final
+
+```
+Match #   Opponent    AB_Improved   AB_Custom   AB_Custom_2  AB_Custom_3 
+                        Won | Lost   Won | Lost   Won | Lost   Won | Lost 
+    1       Random       8  |   2     9  |   1    10  |   0     9  |   1  
+    2       MM_Open      5  |   5     4  |   6     6  |   4    10  |   0  
+    3      MM_Center     7  |   3     8  |   2     9  |   1    10  |   0  
+    4     MM_Improved    7  |   3     6  |   4     6  |   4     7  |   3  
+    5       AB_Open      5  |   5     6  |   4     6  |   4     6  |   4  
+    6      AB_Center     6  |   4     5  |   5     6  |   4     5  |   5  
+    7     AB_Improved    5  |   5     6  |   4     6  |   4     7  |   3  
+--------------------------------------------------------------------------
+           Win Rate:      61.4%        62.9%        70.0%        77.1%  
+ ```
